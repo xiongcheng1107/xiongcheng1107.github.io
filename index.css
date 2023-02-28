@@ -1,0 +1,23 @@
+@charset "utf-8";
+html{color:#4d4d4d;background:#fff; height:100%; min-height:100%;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0}
+body,button,input,select,textarea{font:12px/1.5em -apple-system,BlinkMacSystemFont,PingFang SC,Microsoft Yahei;font-weight:200;}
+input,select,textarea{font-size:100%}
+table{border-collapse:collapse;border-spacing:0;}
+th{text-align:inherit}
+iframe{display:block}
+ol,ul,li{list-style:none}
+
+.center{
+  width:1200px;
+  height:100px;
+  line-height: 100px;
+  margin:auto;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
